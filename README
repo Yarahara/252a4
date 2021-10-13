@@ -1,0 +1,15 @@
+/* 
+Divine-Favour Gbagi
+Due Date: 10/1/2021
+CSIS 252
+Assignment 4
+*/
+
+Description:  The purpose of this program is the make a unit class and test the methods in it including a default constructor, a constructor that takes in a number and sets the initial value to that, a copy constructor, an overloaded assignment operator, a method to set and get the value, a method to compare between different instances of unit class using overloaded operators, a method to input and output unit making sure the string input matches the unit name or plural form, or abbreviation, and a method to get the name of the unit and return the name, abbreviation, and the plural form.
+
+file:		     function:					      description:
+-main.cpp	     main						      main function;test driver(create&test instances)           
+-bitType.h	     provides unit class		      .h file for unit struct
+-bitType.imp     implement bitType class	      implementation of bitType methods
+
+uses a makefile to compile
